@@ -1,3 +1,12 @@
 # Contemporary Issues In Data
+In this document, I delve into two articles that illustrate the big data analytics. I present and discuss two distinct perspectives on this pivotal subject.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1
+According to[Top 7 Benefits of Big Data and Analytics and Reasons to Consider It](https://www.simplilearn.com/benefits-of-big-data-and-analytics-article),big Data analytics allows businesses to discern hidden patterns, correlations, market trends, and consumer preferences, which are pivotal for driving operational efficiency, enhancing customer satisfaction, and boosting profitability.
+
+The article further enumerates the primary benefits of leveraging Big Data and analytics. These advantages include enhancing customer acquisition and retention through personalized experiences, executing targeted promotions based on consumer behavior, identifying potential risks for proactive management, fostering innovation by utilizing data-driven insights, optimizing complex supplier networks, achieving cost efficiencies, and overall operational improvement.
+
+## Article2
+[Limitations of Big Data Analytics](https://www.ciklum.com/blog/limitations-of-big-data-analytics) makes contradiction by stating limitations of Big Data analytics. While the process is renowned for its ability to reveal hidden patterns, customer preferences, and various trends, it's essential to recognize that it's not a one-size-fits-all solution to every business challenge. The article highlights some constraints. Firstly, it points out the danger of prioritizing correlations without understanding their significance, emphasizing that correlation does not imply causation. Secondly, it underscores the importance of asking the right questions; having access to vast amounts of data is pointless if one cannot extract meaningful insights from it.
+
+Further, the article touches upon the security concerns, noting the ever-present risk of data breaches that could compromise sensitive information. The challenge of data transferability is also discussed, especially when the data resides behind firewalls or on private clouds, making it technically challenging to access and analyze. Lastly, the inconsistency in data collection methods, particularly with tools that undergo frequent updates, can lead to varied results, making it hard to derive consistent insights. The overarching message is clear: while Big Data analytics is a powerful tool, understanding its limitations is crucial for its effective application.
